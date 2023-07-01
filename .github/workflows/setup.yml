@@ -17,6 +17,8 @@ on:
   workflow_dispatch:
 jobs:
   release:
+    permissions:
+      actions: write
     name: Setup Upptime
     runs-on: ubuntu-20.04
     steps:
