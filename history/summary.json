@@ -4,17 +4,19 @@
     "url": "https://api.carson.live/api/v1.4.11/auth/login/",
     "icon": "https://static.wixstatic.com/media/71929b_42a030de97d54931afa3bca955aa0edb~mv2.jpeg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/71929b_42a030de97d54931afa3bca955aa0edb~mv2.jpeg",
     "slug": "carson-living-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 450,
-    "timeWeek": 239,
-    "timeMonth": 239,
-    "timeYear": 239,
-    "dailyMinutesDown": {}
+    "time": 256,
+    "timeDay": 405,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
+    "dailyMinutesDown": {
+      "2023-07-03": 0
+    }
   }
 ]
