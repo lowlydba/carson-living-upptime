@@ -1,7 +1,7 @@
 url: https://api.carson.live/api/v1.4.11/auth/login/
-status: up
+status: degraded
 code: 200
-responseTime: 3481
-lastUpdated: 2023-07-18T23:02:59.570Z
+responseTime: 21746
+lastUpdated: 2023-07-19T22:13:53.486Z
 startTime: Sat Jul 01 2023 15:17:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
